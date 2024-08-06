@@ -2,7 +2,7 @@
 
 Welcome to the Movie App! This is a full-stack application for managing a list of movies. The backend is built with Express and PostgreSQL, while the frontend is designed with React.
 
-- My Live Server[];
+- My Live Server[https://movie-app-backend-1-jmf8.onrender.com];
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
