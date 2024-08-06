@@ -1,7 +1,7 @@
 {
   "name": "movies-app-backend",
   "version": "1.0.0",
-  "main": "app.js",
+  "main": "server.js",
   "scripts": {
     "start": "nodemon server.js",
     "db:init": "psql -U postgres -f db/schema.sql",
