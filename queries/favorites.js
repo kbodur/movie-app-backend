@@ -60,7 +60,7 @@ const updateFavorite = async (favorite) => {
     return updatedFavorite;
   } catch (error) {
     console.error("Error in updateFavorite:", error);
-    throw error; // Hata fırlatma
+    throw error; 
   }
 };
 
